@@ -3,9 +3,11 @@
     width: 150px;
     height: 100px;
     background-color: blueviolet;
-
+    font-weight:bold;
+    font-size: x-large;
+    padding: 50px;
 }
 
 body {
     background-color: chartreuse;
-}
+} 
